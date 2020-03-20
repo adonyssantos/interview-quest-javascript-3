@@ -1,0 +1,2 @@
+//EJERCICIO #19 : Los números de Pitágoras pueden ser descritos de la siguiente manera: a²  + b² = c², donde a, b y c son enteros, b y c son consecutivos, a y b son catetos y c es la hipotenusa. Escriba un programa para encontrar 5 ternas de números de Pitágoras.
+ 
