@@ -35,13 +35,13 @@ squareSum = squareSum.reduce((anterior, actual) => (actual += anterior));
 document.write(
   "Los valores ingresados son: ",
   valors,
-  "</br>El número mas bajo es: ",
+  "</br>El número más bajo es: ",
   min,
-  "</br> El número mas alto es: ",
+  "</br> El número más alto es: ",
   max,
-  "</br>La suma de todos los valores ingresados es: ",
+  "</br>La suma de todos es: ",
   sum,
-  "</br> El promedio de los valores ingresados es: ",
+  "</br> El promedio es: ",
   avg,
   "</br> La suma de los cuadrados es: ",
   squareSum
